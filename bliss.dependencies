@@ -1,0 +1,26 @@
+[
+  {
+    "remote":"github",  
+    "repository": "7420dev/android_kernel_samsung_zeroflte",
+    "target_path": "kernel/samsung/zeroflte",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote":"github",  
+    "repository": "7420dev/android_vendor_samsung_zerofltexx",
+    "target_path": "vendor/samsung/zerofltexx",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "7420dev/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-12.1"
+  }
+]
